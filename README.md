@@ -9,6 +9,14 @@ A robust, real-time distributed auction platform built using **Jakarta EE**. Thi
 
 ---
 
+## 📸 Application Interface
+
+| Desktop View | Mobile View |
+| :---: | :---: |
+| ![Dashboard](./screenshots/dashboard.png) | ![Mobile](./screenshots/mobile.png) |
+
+---
+
 ## 🌟 Key Features
 
 - **⚡ Live Bidding Dashboard**: Real-time visualization of the highest bid, current leader, and auction countdown.
