@@ -65,6 +65,7 @@ auction-system/
 - **Maven 3.8+**
 - **Jakarta EE Compatible Server** (e.g., Payara Server, WildFly, or Glassfish)
 
+
 ### Installation & Deployment
 
 1. **Clone the repository:**
